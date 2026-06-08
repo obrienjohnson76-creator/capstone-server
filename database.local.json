@@ -1,0 +1,2610 @@
+{
+  "users": [
+    {
+      "id": "1778693511609-1501b0bfb7eba",
+      "username": "admin",
+      "passwordHash": "$2a$12$GgMBqq/IRuJEAlczM1DB7e30R6tiY8KqqrccN5YgEjSmlr5O/fO4e",
+      "name": "System Administrator",
+      "position": "Lab Tech",
+      "approved": true,
+      "isAdmin": true,
+      "createdAt": "2026-05-13T17:31:51.608Z",
+      "createdAtIso": "2026-05-13T17:31:51.609Z"
+    }
+  ],
+  "pendingUsers": [],
+  "readings": [
+    {
+      "id": "1778706939226-9f56b9b06117f",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:15:39.226Z",
+      "timestampIso": "2026-05-13T21:15:39.226Z"
+    },
+    {
+      "id": "1778706956477-a586c852729df",
+      "voltage": 0,
+      "current": 0.031,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:15:56.477Z",
+      "timestampIso": "2026-05-13T21:15:56.477Z"
+    },
+    {
+      "id": "1778706973591-06de58781c69b",
+      "voltage": 0,
+      "current": 0.031,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:16:13.590Z",
+      "timestampIso": "2026-05-13T21:16:13.590Z"
+    },
+    {
+      "id": "1778706990717-019ed1458c218",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.03
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:16:30.716Z",
+      "timestampIso": "2026-05-13T21:16:30.716Z"
+    },
+    {
+      "id": "1778707008000-e72193c0c232b",
+      "voltage": 0,
+      "current": 0.034,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.034
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.032
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.034
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:16:47.999Z",
+      "timestampIso": "2026-05-13T21:16:47.999Z"
+    },
+    {
+      "id": "1778707025197-874e32c3e2064",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:17:05.196Z",
+      "timestampIso": "2026-05-13T21:17:05.196Z"
+    },
+    {
+      "id": "1778707042374-5f6c487e07b2d",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:17:22.373Z",
+      "timestampIso": "2026-05-13T21:17:22.373Z"
+    },
+    {
+      "id": "1778707059800-4107eb324bfb1",
+      "voltage": 0,
+      "current": 0.033,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.033
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.032
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.033
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:17:39.800Z",
+      "timestampIso": "2026-05-13T21:17:39.800Z"
+    },
+    {
+      "id": "1778707076928-d3f36f9b3187e",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:17:56.927Z",
+      "timestampIso": "2026-05-13T21:17:56.927Z"
+    },
+    {
+      "id": "1778707094116-597767970754e",
+      "voltage": 0,
+      "current": 0.036,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.036
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.035
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.036
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:18:14.115Z",
+      "timestampIso": "2026-05-13T21:18:14.115Z"
+    },
+    {
+      "id": "1778707111205-97609e3bc9a6c",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:18:31.204Z",
+      "timestampIso": "2026-05-13T21:18:31.204Z"
+    },
+    {
+      "id": "1778707128217-be44d4e0a694c",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:18:48.216Z",
+      "timestampIso": "2026-05-13T21:18:48.216Z"
+    },
+    {
+      "id": "1778707145512-0e9d844f73b45",
+      "voltage": 0,
+      "current": 0.03,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.03
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.03
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:19:05.512Z",
+      "timestampIso": "2026-05-13T21:19:05.512Z"
+    },
+    {
+      "id": "1778707162519-af7fd83f4da1f",
+      "voltage": 0,
+      "current": 0.031,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:19:22.518Z",
+      "timestampIso": "2026-05-13T21:19:22.518Z"
+    },
+    {
+      "id": "1778707179609-409f57c2fab6d",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:19:39.609Z",
+      "timestampIso": "2026-05-13T21:19:39.609Z"
+    },
+    {
+      "id": "1778707196857-eb73de09264c2",
+      "voltage": 112.08,
+      "current": 0.03,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.03
+      },
+      "phaseB": {
+        "voltage": 112.08,
+        "current": 0.031
+      },
+      "phaseC": {
+        "voltage": 112.08,
+        "current": 0.03
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:19:56.857Z",
+      "timestampIso": "2026-05-13T21:19:56.857Z"
+    },
+    {
+      "id": "1778707214063-1b639b611e8ec",
+      "voltage": 111.33,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 111.33,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 111.33,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:20:14.062Z",
+      "timestampIso": "2026-05-13T21:20:14.062Z"
+    },
+    {
+      "id": "1778707231122-93f176c7c2974",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:20:31.121Z",
+      "timestampIso": "2026-05-13T21:20:31.121Z"
+    },
+    {
+      "id": "1778707248132-0c66b909e8218",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:20:48.132Z",
+      "timestampIso": "2026-05-13T21:20:48.132Z"
+    },
+    {
+      "id": "1778707331268-63c38df8a81bf",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:22:11.268Z",
+      "timestampIso": "2026-05-13T21:22:11.268Z"
+    },
+    {
+      "id": "1778707348719-d5fc6174b2c49",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:22:28.718Z",
+      "timestampIso": "2026-05-13T21:22:28.718Z"
+    },
+    {
+      "id": "1778707365784-7d057d9675946",
+      "voltage": 0,
+      "current": 0.031,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.032
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:22:45.783Z",
+      "timestampIso": "2026-05-13T21:22:45.783Z"
+    },
+    {
+      "id": "1778707382799-2ae2ef04374f",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:23:02.798Z",
+      "timestampIso": "2026-05-13T21:23:02.798Z"
+    },
+    {
+      "id": "1778707399932-ac0253f7cbd53",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:23:19.931Z",
+      "timestampIso": "2026-05-13T21:23:19.931Z"
+    },
+    {
+      "id": "1778707416983-f15ad2ef745a8",
+      "voltage": 0,
+      "current": 0.032,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.032
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.032
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:23:36.982Z",
+      "timestampIso": "2026-05-13T21:23:36.982Z"
+    },
+    {
+      "id": "1778707434072-4da21021f57f5",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:23:54.071Z",
+      "timestampIso": "2026-05-13T21:23:54.071Z"
+    },
+    {
+      "id": "1778707451083-ad942422d971",
+      "voltage": 0,
+      "current": 0.031,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.03
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.031
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:24:11.082Z",
+      "timestampIso": "2026-05-13T21:24:11.082Z"
+    },
+    {
+      "id": "1778707468116-43d70b47c29ee",
+      "voltage": 0,
+      "current": 0.036,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.036
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.039
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.036
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:24:28.116Z",
+      "timestampIso": "2026-05-13T21:24:28.116Z"
+    },
+    {
+      "id": "1778707614359-03b51bdbec871",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:26:54.359Z",
+      "timestampIso": "2026-05-13T21:26:54.359Z"
+    },
+    {
+      "id": "1778707631378-6dd3f45b6389e",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:27:11.377Z",
+      "timestampIso": "2026-05-13T21:27:11.377Z"
+    },
+    {
+      "id": "1778707648492-d1e4cb7f0427a",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:27:28.491Z",
+      "timestampIso": "2026-05-13T21:27:28.491Z"
+    },
+    {
+      "id": "1778707665648-6b46adaee3994",
+      "voltage": 95.85,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 95.85,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 95.85,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:27:45.647Z",
+      "timestampIso": "2026-05-13T21:27:45.647Z"
+    },
+    {
+      "id": "1778707682755-514dd7d7dfd89",
+      "voltage": 157.55,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 110.91,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 46.64,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 157.55,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:28:02.754Z",
+      "timestampIso": "2026-05-13T21:28:02.754Z"
+    },
+    {
+      "id": "1778707699896-9cd4274dbe804",
+      "voltage": 223.22,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 111.2,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 112.02,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 223.22,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:28:19.895Z",
+      "timestampIso": "2026-05-13T21:28:19.895Z"
+    },
+    {
+      "id": "1778707717102-862be29764e9c",
+      "voltage": 223.47,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 111.58,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 111.89,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 223.47,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:28:37.101Z",
+      "timestampIso": "2026-05-13T21:28:37.101Z"
+    },
+    {
+      "id": "1778707734201-86856138f5537",
+      "voltage": 196.93,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 85.97,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 110.97,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 196.93,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:28:54.201Z",
+      "timestampIso": "2026-05-13T21:28:54.201Z"
+    },
+    {
+      "id": "1778707751361-7ce584f8960e4",
+      "voltage": 110.15,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 110.15,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 110.15,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:29:11.360Z",
+      "timestampIso": "2026-05-13T21:29:11.360Z"
+    },
+    {
+      "id": "1778707768461-6e78fd2830cb8",
+      "voltage": 109.44,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.44,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 109.44,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:29:28.460Z",
+      "timestampIso": "2026-05-13T21:29:28.460Z"
+    },
+    {
+      "id": "1778707785607-41a9eca669384",
+      "voltage": 109.54,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.54,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 109.54,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:29:45.607Z",
+      "timestampIso": "2026-05-13T21:29:45.607Z"
+    },
+    {
+      "id": "1778707802618-fa9e1faa9e33b",
+      "voltage": 109.62,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.62,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 109.62,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:30:02.618Z",
+      "timestampIso": "2026-05-13T21:30:02.618Z"
+    },
+    {
+      "id": "1778707819808-da4502c2e558d",
+      "voltage": 109.89,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.89,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 109.89,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:30:19.807Z",
+      "timestampIso": "2026-05-13T21:30:19.807Z"
+    },
+    {
+      "id": "1778707836808-2373540750b26",
+      "voltage": 110.92,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 110.92,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 110.92,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:30:36.808Z",
+      "timestampIso": "2026-05-13T21:30:36.808Z"
+    },
+    {
+      "id": "1778707853955-f250e016cd948",
+      "voltage": 110.95,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 110.95,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 110.95,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:30:53.955Z",
+      "timestampIso": "2026-05-13T21:30:53.955Z"
+    },
+    {
+      "id": "1778707870973-a8927cf363409",
+      "voltage": 111.31,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 111.31,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 111.31,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:31:10.972Z",
+      "timestampIso": "2026-05-13T21:31:10.972Z"
+    },
+    {
+      "id": "1778707888010-9f54bf8b2c1c4",
+      "voltage": 111.42,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 111.42,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 111.42,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:31:28.009Z",
+      "timestampIso": "2026-05-13T21:31:28.010Z"
+    },
+    {
+      "id": "1778707905109-3af7ce1a622d4",
+      "voltage": 111.33,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 111.33,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 111.33,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:31:45.108Z",
+      "timestampIso": "2026-05-13T21:31:45.108Z"
+    },
+    {
+      "id": "1778707922128-6ecdd196dde5b",
+      "voltage": 111.77,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 111.77,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 111.77,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:32:02.127Z",
+      "timestampIso": "2026-05-13T21:32:02.127Z"
+    },
+    {
+      "id": "1778707939208-f586094378799",
+      "voltage": 110.83,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 110.83,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 110.83,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:32:19.207Z",
+      "timestampIso": "2026-05-13T21:32:19.207Z"
+    },
+    {
+      "id": "1778707956411-00c489371e38f",
+      "voltage": 111.17,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 111.17,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 111.17,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:32:36.410Z",
+      "timestampIso": "2026-05-13T21:32:36.410Z"
+    },
+    {
+      "id": "1778707973565-f0587e0a3509b",
+      "voltage": 96.14,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 96.14,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 96.14,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:32:53.564Z",
+      "timestampIso": "2026-05-13T21:32:53.564Z"
+    },
+    {
+      "id": "1778707990719-0a544bf591897",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:33:10.719Z",
+      "timestampIso": "2026-05-13T21:33:10.719Z"
+    },
+    {
+      "id": "1778708007730-68987f25286fb",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:33:27.729Z",
+      "timestampIso": "2026-05-13T21:33:27.729Z"
+    },
+    {
+      "id": "1778708024917-671e920ba52f4",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:33:44.917Z",
+      "timestampIso": "2026-05-13T21:33:44.917Z"
+    },
+    {
+      "id": "1778708041938-ee5265c3a91e6",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:34:01.937Z",
+      "timestampIso": "2026-05-13T21:34:01.937Z"
+    },
+    {
+      "id": "1778708059072-8fe1b20d5a02b",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:34:19.071Z",
+      "timestampIso": "2026-05-13T21:34:19.071Z"
+    },
+    {
+      "id": "1778708076217-7381922464ea2",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:34:36.217Z",
+      "timestampIso": "2026-05-13T21:34:36.217Z"
+    },
+    {
+      "id": "1778708093421-46ec9975198ee",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:34:53.419Z",
+      "timestampIso": "2026-05-13T21:34:53.419Z"
+    },
+    {
+      "id": "1778708110829-a0f6cd2b37b9b",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:35:10.828Z",
+      "timestampIso": "2026-05-13T21:35:10.828Z"
+    },
+    {
+      "id": "1778708180868-3fe6fbb3f9b99",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:36:20.867Z",
+      "timestampIso": "2026-05-13T21:36:20.867Z"
+    },
+    {
+      "id": "1778708198302-400c21be38b14",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:36:38.301Z",
+      "timestampIso": "2026-05-13T21:36:38.301Z"
+    },
+    {
+      "id": "1778708215844-b2aa9f9a80f4e",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:36:55.843Z",
+      "timestampIso": "2026-05-13T21:36:55.843Z"
+    },
+    {
+      "id": "1778708233307-a11e60a7714ff",
+      "voltage": 109.58,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.58,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 109.58,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:37:13.305Z",
+      "timestampIso": "2026-05-13T21:37:13.305Z"
+    },
+    {
+      "id": "1778708250706-4095d4a64244d",
+      "voltage": 109.96,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.96,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 109.96,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:37:30.706Z",
+      "timestampIso": "2026-05-13T21:37:30.706Z"
+    },
+    {
+      "id": "1778708268139-6aadfd04d2008",
+      "voltage": 218.97,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 109.48,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.49,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 218.97,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:37:48.138Z",
+      "timestampIso": "2026-05-13T21:37:48.138Z"
+    },
+    {
+      "id": "1778708285726-a5fc230e2770d",
+      "voltage": 218.92,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 109.4,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.52,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 218.92,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:38:05.725Z",
+      "timestampIso": "2026-05-13T21:38:05.725Z"
+    },
+    {
+      "id": "1778708303299-45dea7151e3d3",
+      "voltage": 220.67,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 110.17,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 110.5,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 220.67,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:38:23.299Z",
+      "timestampIso": "2026-05-13T21:38:23.299Z"
+    },
+    {
+      "id": "1778708320859-80af80c11ae9b",
+      "voltage": 218.68,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 109.35,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.33,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 218.68,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:38:40.859Z",
+      "timestampIso": "2026-05-13T21:38:40.859Z"
+    },
+    {
+      "id": "1778708338375-dca70c33ac92f",
+      "voltage": 218.44,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 108.88,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.56,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 218.44,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:38:58.374Z",
+      "timestampIso": "2026-05-13T21:38:58.374Z"
+    },
+    {
+      "id": "1778708355803-14898e910258a",
+      "voltage": 218.77,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 109.28,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 109.5,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 218.77,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:39:15.801Z",
+      "timestampIso": "2026-05-13T21:39:15.801Z"
+    },
+    {
+      "id": "1778708373588-f149de72ce718",
+      "voltage": 194.29,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 109.65,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 84.64,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 194.29,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:39:33.587Z",
+      "timestampIso": "2026-05-13T21:39:33.587Z"
+    },
+    {
+      "id": "1778708391099-a5bdc280fbc17",
+      "voltage": 110.56,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 110.56,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 110.56,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:39:51.098Z",
+      "timestampIso": "2026-05-13T21:39:51.098Z"
+    },
+    {
+      "id": "1778708408613-3acbfedc7f90f",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:40:08.612Z",
+      "timestampIso": "2026-05-13T21:40:08.612Z"
+    },
+    {
+      "id": "1778708426122-c6f81eb31cdab",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:40:26.120Z",
+      "timestampIso": "2026-05-13T21:40:26.120Z"
+    },
+    {
+      "id": "1778708443635-45506972c7ee6",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:40:43.634Z",
+      "timestampIso": "2026-05-13T21:40:43.634Z"
+    },
+    {
+      "id": "1778708461150-b3a8e06001acc",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:41:01.148Z",
+      "timestampIso": "2026-05-13T21:41:01.148Z"
+    },
+    {
+      "id": "1778708478579-33d91f8a43db9",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:41:18.578Z",
+      "timestampIso": "2026-05-13T21:41:18.578Z"
+    },
+    {
+      "id": "1778708496164-8cda1019575f8",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:41:36.162Z",
+      "timestampIso": "2026-05-13T21:41:36.163Z"
+    },
+    {
+      "id": "1778708513598-90851c5f0c98d",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:41:53.597Z",
+      "timestampIso": "2026-05-13T21:41:53.597Z"
+    },
+    {
+      "id": "1778708531001-94fbd11149a6b",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:42:11.000Z",
+      "timestampIso": "2026-05-13T21:42:11.000Z"
+    },
+    {
+      "id": "1778708548407-a5f23f4319e02",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:42:28.406Z",
+      "timestampIso": "2026-05-13T21:42:28.406Z"
+    },
+    {
+      "id": "1778708565900-e5feada9eeb6a",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:42:45.899Z",
+      "timestampIso": "2026-05-13T21:42:45.899Z"
+    },
+    {
+      "id": "1778708583306-ead63955b517",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:43:03.305Z",
+      "timestampIso": "2026-05-13T21:43:03.305Z"
+    },
+    {
+      "id": "1778708600818-0cfe1007ad06a",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:43:20.816Z",
+      "timestampIso": "2026-05-13T21:43:20.817Z"
+    },
+    {
+      "id": "1778708618229-0f3601d23cb72",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:43:38.228Z",
+      "timestampIso": "2026-05-13T21:43:38.228Z"
+    },
+    {
+      "id": "1778708635737-2c5a845f2528d",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:43:55.736Z",
+      "timestampIso": "2026-05-13T21:43:55.736Z"
+    },
+    {
+      "id": "1778708653140-8b3b0750af26c",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:44:13.139Z",
+      "timestampIso": "2026-05-13T21:44:13.139Z"
+    },
+    {
+      "id": "1778708670673-afe0d01102011",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:44:30.672Z",
+      "timestampIso": "2026-05-13T21:44:30.672Z"
+    },
+    {
+      "id": "1778708688261-a6c04d04371",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:44:48.260Z",
+      "timestampIso": "2026-05-13T21:44:48.260Z"
+    },
+    {
+      "id": "1778708705675-d1aab3b114543",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:45:05.674Z",
+      "timestampIso": "2026-05-13T21:45:05.674Z"
+    },
+    {
+      "id": "1778708723097-5c2efc568872c",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:45:23.096Z",
+      "timestampIso": "2026-05-13T21:45:23.096Z"
+    },
+    {
+      "id": "1778708740527-3c7a4963fc80a",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:45:40.526Z",
+      "timestampIso": "2026-05-13T21:45:40.526Z"
+    },
+    {
+      "id": "1778708758011-e2847105a1e82",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:45:58.009Z",
+      "timestampIso": "2026-05-13T21:45:58.009Z"
+    },
+    {
+      "id": "1778708775463-46c065307c642",
+      "voltage": 0,
+      "current": 0,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T21:46:15.463Z",
+      "timestampIso": "2026-05-13T21:46:15.463Z"
+    },
+    {
+      "id": "1778713571036-3fa74d37c6166",
+      "voltage": 0,
+      "current": 0.043,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.043
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.043
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.043
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T23:06:11.036Z",
+      "timestampIso": "2026-05-13T23:06:11.036Z"
+    },
+    {
+      "id": "1778713588435-1cd9aacb7d7ce",
+      "voltage": 0,
+      "current": 0.038,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.038
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.038
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.038
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T23:06:28.433Z",
+      "timestampIso": "2026-05-13T23:06:28.433Z"
+    },
+    {
+      "id": "1778713605948-93e067613d224",
+      "voltage": 0,
+      "current": 0.039,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.039
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.037
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.039
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T23:06:45.946Z",
+      "timestampIso": "2026-05-13T23:06:45.946Z"
+    },
+    {
+      "id": "1778713623460-150aed3466ce4",
+      "voltage": 0,
+      "current": 0.036,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.036
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.034
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.036
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-13T23:07:03.459Z",
+      "timestampIso": "2026-05-13T23:07:03.459Z"
+    },
+    {
+      "id": "1778716803508-6942abdf50c5f",
+      "voltage": 0,
+      "current": 0.05,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.05
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.051
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.05
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-14T00:00:03.506Z",
+      "timestampIso": "2026-05-14T00:00:03.506Z"
+    },
+    {
+      "id": "1778716820886-ee521d2434cbe",
+      "voltage": 0,
+      "current": 0.05,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.05
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.05
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.05
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-14T00:00:20.885Z",
+      "timestampIso": "2026-05-14T00:00:20.885Z"
+    },
+    {
+      "id": "1778716838344-65f2a3c5c4ad1",
+      "voltage": 0,
+      "current": 0.047,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.047
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.047
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.047
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-14T00:00:38.344Z",
+      "timestampIso": "2026-05-14T00:00:38.344Z"
+    },
+    {
+      "id": "1778716859514-83bf16103fda7",
+      "voltage": 0,
+      "current": 0.046,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.046
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.045
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.046
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-14T00:00:59.513Z",
+      "timestampIso": "2026-05-14T00:00:59.513Z"
+    },
+    {
+      "id": "1778716877006-4a8eab5986db1",
+      "voltage": 0,
+      "current": 0.043,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.043
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.042
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.043
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-14T00:01:17.004Z",
+      "timestampIso": "2026-05-14T00:01:17.004Z"
+    },
+    {
+      "id": "1778716894431-bac43ce7ebca4",
+      "voltage": 0,
+      "current": 0.045,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.045
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.044
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.045
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-14T00:01:34.429Z",
+      "timestampIso": "2026-05-14T00:01:34.429Z"
+    },
+    {
+      "id": "1778716911948-06af4dedcb44b",
+      "voltage": 0,
+      "current": 0.044,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.044
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.044
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.044
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-14T00:01:51.945Z",
+      "timestampIso": "2026-05-14T00:01:51.945Z"
+    },
+    {
+      "id": "1778717321544-801f0e78e8428",
+      "voltage": 0,
+      "current": 0.045,
+      "power": 0,
+      "energy": 0,
+      "powerFactor": 0,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.045
+      },
+      "phaseB": {
+        "voltage": 0,
+        "current": 0.044
+      },
+      "phaseC": {
+        "voltage": 0,
+        "current": 0.045
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-14T00:08:41.542Z",
+      "timestampIso": "2026-05-14T00:08:41.542Z"
+    },
+    {
+      "id": "1778717338912-3c70997581333",
+      "voltage": 99.61,
+      "current": 0.039,
+      "power": 0.09,
+      "energy": 0,
+      "powerFactor": 0.02,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.039
+      },
+      "phaseB": {
+        "voltage": 99.61,
+        "current": 0.039
+      },
+      "phaseC": {
+        "voltage": 99.61,
+        "current": 0.039
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-14T00:08:58.910Z",
+      "timestampIso": "2026-05-14T00:08:58.910Z"
+    },
+    {
+      "id": "1778717356346-6cee2fa103cd2",
+      "voltage": 108.95,
+      "current": 0.043,
+      "power": 0.19,
+      "energy": 0,
+      "powerFactor": 0.04,
+      "frequency": 50,
+      "phaseA": {
+        "voltage": 0,
+        "current": 0.043
+      },
+      "phaseB": {
+        "voltage": 108.95,
+        "current": 0.041
+      },
+      "phaseC": {
+        "voltage": 108.95,
+        "current": 0.043
+      },
+      "source": "ESP32",
+      "timestamp": "2026-05-14T00:09:16.344Z",
+      "timestampIso": "2026-05-14T00:09:16.344Z"
+    }
+  ],
+  "latest": {
+    "id": "reading",
+    "voltage": 108.95,
+    "current": 0.043,
+    "power": 0.19,
+    "energy": 0,
+    "powerFactor": 0.04,
+    "frequency": 50,
+    "phaseA": {
+      "voltage": 0,
+      "current": 0.043
+    },
+    "phaseB": {
+      "voltage": 108.95,
+      "current": 0.041
+    },
+    "phaseC": {
+      "voltage": 108.95,
+      "current": 0.043
+    },
+    "source": "ESP32",
+    "timestamp": "2026-05-14T00:09:16.344Z",
+    "timestampIso": "2026-05-14T00:09:16.344Z"
+  }
+}
